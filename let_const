@@ -1,0 +1,8 @@
+- What is the difference between ***var*** and ***let***?
+    var can be reassigned, redeclared, and mutated. Let can only be reassigned and mutated - you cannot redeclare a let variable
+- What is the difference between **var** and ***const***?
+    var can be reassigned, redeclared, and mutated. const can not be reassigned nor can it be redeclared. It can only be mutated
+- What is the difference between **let** and **const**?
+    let can be reassigned and const cannot.
+- What is hoisting?
+    hoising is when the variable is moved to the beginning of the scope they exist in.
